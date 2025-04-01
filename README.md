@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Devansh1404/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Devansh1404/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devansh1404/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1603-running-sum-of-1d-array](https://github.com/Devansh1404/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Devansh1404/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Binary Search
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Devansh1404/Leetcode/tree/master/0367-valid-perfect-square) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Devansh1404/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
