@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Devansh1404/Leetcode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/Devansh1404/Leetcode/tree/master/0137-single-number-ii) |
 ## Interactive
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Devansh1404/Leetcode/tree/master/0067-add-binary) |
 | [0367-valid-perfect-square](https://github.com/Devansh1404/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Prefix Sum
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Devansh1404/Leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Devansh1404/Leetcode/tree/master/0067-add-binary) |
 | [0742-to-lower-case](https://github.com/Devansh1404/Leetcode/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Devansh1404/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Dynamic Programming
@@ -64,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Devansh1404/Leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Devansh1404/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
