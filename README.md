@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Devansh1404/Leetcode/tree/master/0067-add-binary) |
 | [0367-valid-perfect-square](https://github.com/Devansh1404/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1013-fibonacci-number](https://github.com/Devansh1404/Leetcode/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devansh1404/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/Devansh1404/Leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -81,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Devansh1404/Leetcode/tree/master/0561-array-partition) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Devansh1404/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Devansh1404/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
