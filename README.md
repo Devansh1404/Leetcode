@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Devansh1404/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Devansh1404/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Devansh1404/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Devansh1404/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Devansh1404/Leetcode/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Devansh1404/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Devansh1404/Leetcode/tree/master/0258-add-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Devansh1404/Leetcode/tree/master/1013-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Devansh1404/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
