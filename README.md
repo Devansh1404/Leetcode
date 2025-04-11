@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Devansh1404/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Devansh1404/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Devansh1404/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Devansh1404/Leetcode/tree/master/0258-add-digits) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Devansh1404/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
