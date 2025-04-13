@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Devansh1404/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Devansh1404/Leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Devansh1404/Leetcode/tree/master/0125-valid-palindrome) |
 | [0742-to-lower-case](https://github.com/Devansh1404/Leetcode/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Devansh1404/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Dynamic Programming
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Devansh1404/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Devansh1404/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Devansh1404/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
