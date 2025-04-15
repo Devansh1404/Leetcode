@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Devansh1404/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Devansh1404/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Devansh1404/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1899-count-items-matching-a-rule](https://github.com/Devansh1404/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Devansh1404/Leetcode/tree/master/0125-valid-palindrome) |
 | [0742-to-lower-case](https://github.com/Devansh1404/Leetcode/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Devansh1404/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1899-count-items-matching-a-rule](https://github.com/Devansh1404/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 ## Dynamic Programming
 |  |
 | ------- |
