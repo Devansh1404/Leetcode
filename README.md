@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Devansh1404/Leetcode/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devansh1404/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/Devansh1404/Leetcode/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Devansh1404/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Devansh1404/Leetcode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Devansh1404/Leetcode/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Devansh1404/Leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Devansh1404/Leetcode/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
