@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Devansh1404/Leetcode/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Devansh1404/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/Devansh1404/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Devansh1404/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Devansh1404/Leetcode/tree/master/0561-array-partition) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Devansh1404/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Recursion
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Devansh1404/Leetcode/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/Devansh1404/Leetcode/tree/master/0268-missing-number) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Devansh1404/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Monotonic Stack
 |  |
 | ------- |
