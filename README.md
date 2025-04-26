@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Devansh1404/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Devansh1404/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Devansh1404/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/Devansh1404/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Devansh1404/Leetcode/tree/master/0561-array-partition) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devansh1404/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/Devansh1404/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Devansh1404/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Devansh1404/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Devansh1404/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/Devansh1404/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Devansh1404/Leetcode/tree/master/0561-array-partition) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Devansh1404/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Devansh1404/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Devansh1404/Leetcode/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Devansh1404/Leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
