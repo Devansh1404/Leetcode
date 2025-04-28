@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Devansh1404/Leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Devansh1404/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Devansh1404/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0204-count-primes](https://github.com/Devansh1404/Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Devansh1404/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Devansh1404/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Devansh1404/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Devansh1404/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Devansh1404/Leetcode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Devansh1404/Leetcode/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/Devansh1404/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Devansh1404/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Devansh1404/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Devansh1404/Leetcode/tree/master/0268-missing-number) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Devansh1404/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Devansh1404/Leetcode/tree/master/0258-add-digits) |
 ## Linked List
 |  |
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Devansh1404/Leetcode/tree/master/0506-relative-ranks) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Devansh1404/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
