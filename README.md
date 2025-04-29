@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Devansh1404/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/Devansh1404/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Devansh1404/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Devansh1404/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Binary Search
 |  |
 | ------- |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Devansh1404/Leetcode/tree/master/0204-count-primes) |
+## Sliding Window
+|  |
+| ------- |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Devansh1404/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 <!---LeetCode Topics End-->
