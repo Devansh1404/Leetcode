@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Devansh1404/Leetcode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Devansh1404/Leetcode/tree/master/0948-sort-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Devansh1404/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Devansh1404/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devansh1404/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/Devansh1404/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Devansh1404/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Devansh1404/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Devansh1404/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Devansh1404/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Devansh1404/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devansh1404/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Devansh1404/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Devansh1404/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Devansh1404/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Devansh1404/Leetcode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Devansh1404/Leetcode/tree/master/0948-sort-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Devansh1404/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Devansh1404/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Devansh1404/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Math
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Devansh1404/Leetcode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Devansh1404/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Devansh1404/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Devansh1404/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Devansh1404/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Devansh1404/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Devansh1404/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Devansh1404/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Devansh1404/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2915-count-of-interesting-subarrays](https://github.com/Devansh1404/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 ## Monotonic Stack
