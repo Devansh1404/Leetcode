@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Devansh1404/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Devansh1404/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/Devansh1404/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [2181-smallest-index-with-equal-value](https://github.com/Devansh1404/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Devansh1404/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/Devansh1404/Leetcode/tree/master/2502-sort-the-people) |
 | [2915-count-of-interesting-subarrays](https://github.com/Devansh1404/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
