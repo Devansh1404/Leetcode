@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Devansh1404/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/Devansh1404/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Devansh1404/Leetcode/tree/master/0561-array-partition) |
+| [0724-find-pivot-index](https://github.com/Devansh1404/Leetcode/tree/master/0724-find-pivot-index) |
 | [0948-sort-an-array](https://github.com/Devansh1404/Leetcode/tree/master/0948-sort-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Devansh1404/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Devansh1404/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Devansh1404/Leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Devansh1404/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Devansh1404/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 ## String
