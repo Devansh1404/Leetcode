@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Devansh1404/Leetcode/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/Devansh1404/Leetcode/tree/master/0724-find-pivot-index) |
 | [0948-sort-an-array](https://github.com/Devansh1404/Leetcode/tree/master/0948-sort-an-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Devansh1404/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Devansh1404/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Devansh1404/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devansh1404/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Devansh1404/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Devansh1404/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Devansh1404/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Devansh1404/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Devansh1404/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devansh1404/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Devansh1404/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
