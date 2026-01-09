@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Devansh1404/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Devansh1404/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Devansh1404/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/Devansh1404/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Devansh1404/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Devansh1404/Leetcode/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/Devansh1404/Leetcode/tree/master/0724-find-pivot-index) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Devansh1404/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Devansh1404/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Devansh1404/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Simulation
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Devansh1404/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Devansh1404/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Devansh1404/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/Devansh1404/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Devansh1404/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Devansh1404/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2502-sort-the-people](https://github.com/Devansh1404/Leetcode/tree/master/2502-sort-the-people) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Devansh1404/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Devansh1404/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
