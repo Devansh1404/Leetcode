@@ -224,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Devansh1404/Leetcode/tree/master/0948-sort-an-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Devansh1404/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
